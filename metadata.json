@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QDII ETF Premium Analyzer",
+  "description": "A professional tool to calculate, visualize, and analyze historical premium rates of NASDAQ-linked A-share ETFs (e.g., 159696). Features dual-method calculation (IOPV vs NAV) and AI-powered trend analysis.",
+  "requestFramePermissions": []
+}
